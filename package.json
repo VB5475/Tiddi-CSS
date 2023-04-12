@@ -1,0 +1,18 @@
+{
+  "name": "new-css",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "flowbite": "^1.6.5",
+    "vite": "^4.2.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
